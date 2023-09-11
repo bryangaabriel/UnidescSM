@@ -1,2 +1,2 @@
 # Unidesc Seminário Integrador
-## Diagrama da Academia esta entregue em png, sql e pdf.
+✔ Diagrama da Academia esta entregue em png, sql e pdf.
